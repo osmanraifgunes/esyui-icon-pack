@@ -1,9 +1,6 @@
-# esyui-icon-pack
-## Copy images under icons folder under to icons folder of JesyUI.
-
-## Copy icons.css content into icons.css of JesyUI.
-
-Thats it.
+# Copy images under icons folder under to icons folder of JesyUI.
+# Copy icons.css content into icons.css of JesyUI.
+# Thats it.
 
 
 New modern ui icon set for easy ui
