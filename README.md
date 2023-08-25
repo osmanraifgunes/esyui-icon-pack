@@ -1,7 +1,7 @@
 # esyui-icon-pack
-Copy images under icons folder under to icons folder of JesyUI.
+# Copy images under icons folder under to icons folder of JesyUI.
 
-Copy icons.css content into icons.css of JesyUI.
+# Copy icons.css content into icons.css of JesyUI.
 
 Thats it.
 
